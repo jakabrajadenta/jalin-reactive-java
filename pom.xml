@@ -104,7 +104,7 @@
 		<dependency>
 			<groupId>org.jpos</groupId>
 			<artifactId>jpos</artifactId>
-			<version>2.1.8</version>
+			<version>3.0.0</version>
 		</dependency>
 
 	</dependencies>
